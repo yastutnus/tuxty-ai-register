@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noydra/noydra-oto-kayit.git"
+    "url": "git+https://github.com/noydra/noydra-ai-register.git"
   },
   "keywords": [
     "noydra"
@@ -16,9 +16,9 @@
   "author": "noydra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noydra/noydra-oto-kayit/issues"
+    "url": "https://github.com/noydra/noydra-ai-register/issues"
   },
-  "homepage": "https://github.com/noydra/noydra-oto-kayit#readme",
+  "homepage": "https://github.com/noydra/noydra-ai-register#readme",
   "dependencies": {
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3",
