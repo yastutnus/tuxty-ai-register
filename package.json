@@ -1,0 +1,29 @@
+{
+  "name": "noydra",
+  "version": "0.0.1",
+  "description": "noydra",
+  "main": "noydra.js",
+  "scripts": {
+    "test": "node noydra.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noydra/noydra-oto-kayit.git"
+  },
+  "keywords": [
+    "noydra"
+  ],
+  "author": "noydra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noydra/noydra-oto-kayit/issues"
+  },
+  "homepage": "https://github.com/noydra/noydra-oto-kayit#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "wio.db": "^4.0.20"
+  }
+}
