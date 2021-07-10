@@ -1,2 +1,4 @@
-# noydra-ai-register
+# tuxty-ai-register
 Hem otomatik hem ayarlamalı kayıt sistemi, bana ait diye dolanmadığınız sürece dilediğiniz gibi kullanın. :)
+
+Developer: Tuxty = Noydra
